@@ -1,0 +1,19 @@
+.container{
+  margin: 0 auto;
+  max-width: 500px;
+  font-family: sans-serif;
+}
+.heading{
+  color: green;
+}
+.nav-links{
+  display: flex;
+  list-style: none;
+  padding: 0;
+}
+.nav-link-item{
+  padding: 5px 15px;
+}
+.nav-link-text{
+  color: #000;
+}
